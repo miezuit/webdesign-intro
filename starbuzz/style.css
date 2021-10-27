@@ -20,3 +20,9 @@ p {
 img {
     width: 200px;
 }
+#pret {
+    color: green;
+}
+.pret {
+    color: green;
+}
