@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap');
+body {
+    background-color: bisque;
+}
+h1 {
+    color: darkgreen;
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+}
+h2 {
+    color: rgb(181, 88, 7);
+    font-style: oblique;
+    text-decoration-style: solid;
+    text-decoration-color: crimson;
+    text-decoration-line: underline;
+}
+p {
+    font-weight: bold;
+}
+img {
+    width: 200px;
+}
